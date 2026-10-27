@@ -1,2 +1,2 @@
-# rigidgemini
+# ridiggemini
 
